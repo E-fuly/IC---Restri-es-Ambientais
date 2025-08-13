@@ -1,0 +1,10 @@
+﻿AttConst;Valor
+duracaoPeriodo;730
+nrFoward;10
+CVUdeficit;7643.82
+convHidro;2.628
+penalidadeDefluenciaMax;10000
+penalidadeDefluenciaMin;10000
+seed;1000
+alpha;0.25
+beta;0.50
